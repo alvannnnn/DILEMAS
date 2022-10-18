@@ -49,7 +49,7 @@
                 <div class="mb-3">
                     <label class="form-label">Jenis Kelamin</label>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="kelamin" value="male">
+                        <input class="form-check-input" type="radio" name="kelamin" value="amle">
                         <label class="form-check-label" for="flexRadioDefault1">
                             Male
                         </label>
@@ -70,6 +70,7 @@
                 <div class="mb-3">
                     <label class="form-label">Agama</label>
                     <select class="form-select" aria-label="Default select example" name="agama">
+                        <option value="Pilih">Pilih</option>
                         <option value="Islam">Islam</option>
                         <option value="Kristen">Kristen</option>
                         <option value="Budha">Budha</option>
